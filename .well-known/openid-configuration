@@ -1,6 +1,6 @@
 {
-    "issuer": "https://storage.googleapis.com/ocp-lab-cluster-oidc",
-    "jwks_uri": "https://storage.googleapis.com/ocp-lab-cluster-oidc/keys.json",
+    "issuer": "https://mohsinrz.github.io/ocp-oidc",
+    "jwks_uri": "https://mohsinrz.github.io/ocp-oidc/keys.json",
     "response_types_supported": [
         "id_token"
     ],
